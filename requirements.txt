@@ -1,0 +1,8 @@
+aiogram
+aiosqlite
+aiohttp
+beautifulsoup4
+phonenumbers
+pyrogram
+tgcrypto
+dnspython
